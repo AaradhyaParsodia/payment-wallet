@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .something{
+    display: flex;
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    border-radius: 30% 70% 72% 28% / 30% 14% 86% 70% ;
+    justify-content: center;
+    color: #ffffff;
+    align-items: center;
+    padding-bottom: 1%;
+} */
